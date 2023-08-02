@@ -1,9 +1,9 @@
 ## How to run this Project
-1. Must be install nodejs in your pc
-2. git clone this repository.
-3. npm install project directory
-4. Then create .env file in root directory of project. REACT_APP_BASE_URL= backend base url
-5. Then npm start command run
+1. The project was done on node version 14.
+2. Clone this repository - git clone https://github.com/mahatab-uddin-shuvo/task-management-frontend.git
+3. Run 'npm install' in the project directory
+4. Create an .env file in the root directory of the project REACT_APP_BASE_URL  = Your Backend Base URL
+5. Run the command 'npm start'
 
 # Getting Started with Create React App
 
