@@ -60,7 +60,7 @@ const Sidebar = ({ children }) => {
       permissions: [],
     },
     {
-      id: 0,
+      id: 1,
       path: "/task-assignment",
       name: "Task Assignment",
       icon: <FaBarcode />,
