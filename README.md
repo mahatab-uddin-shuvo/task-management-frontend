@@ -1,3 +1,10 @@
+## How to run this Project
+1. Must be install nodejs in your pc
+2. git clone this repository.
+3. npm install project directory
+4. Then create .env file in root directory of project. REACT_APP_BASE_URL= backend base url
+5. Then npm start command run
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
