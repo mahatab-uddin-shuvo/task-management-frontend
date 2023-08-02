@@ -4,7 +4,7 @@
 3. Run 'npm install' in the project directory
 4. Create an .env file in the root directory of the project REACT_APP_BASE_URL  = Your Backend Base URL
 5. Run the command 'npm start'
-
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
